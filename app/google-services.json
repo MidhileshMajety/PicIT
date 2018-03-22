@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1078521030815",
+    "firebase_url": "https://picit-a43a7.firebaseio.com",
+    "project_id": "picit-a43a7",
+    "storage_bucket": "picit-a43a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078521030815:android:7e6b298f2fc279f3",
+        "android_client_info": {
+          "package_name": "com.milli.picit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078521030815-ma4dmfeqp3ssehpnv30ds1msriqdm3ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.milli.picit",
+            "certificate_hash": "d12dbfe4c70a85d7e9795fb6fc19557fa84be0c3"
+          }
+        },
+        {
+          "client_id": "1078521030815-jshcrssri3jmle6br4kf97a6apps9oie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7yaEYhBI-SOXc37WeC5YaobSz3hDc7MI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078521030815-jshcrssri3jmle6br4kf97a6apps9oie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
